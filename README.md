@@ -1,20 +1,10 @@
-HCR-Lib: A Deep Learning Library for Script Independent Handwritten Character Recognition
-=========================================================================================
-Chauhan, V. K., Singh, S., & Sharma, A. (2022) HCR-Lib: A Deep Learning Library for Script Independent Handwritten Character Recognition.
 
-
-## About HCR-Lib
-Handwritten character recognition (HCR) is an important pattern recognition problem that lacks research on script independent models. This is because of complexity and diversity of scripts, different handwriting styles, use of handcrafted feature extraction, and unavailability of codes and datasets to reproduce and extend the existing research. HCR-Lib presents the first script independent deep learning library for HCR. It is an open source, very easy to use with any scripts, easy to extend, and a readable and portable library. The library establishes several new benchmarks on publicly available datasets of 14 languages on 40 datasets.
-
-
-NOTE: This library is also used to reproduce experiments in the following paper for HCR-Net model:
-
-[[1] Chauhan, V. K., Singh, S., & Sharma, A. (2021) HCR-Net: A deep learning based script independent handwritten character recognition network. arXiv preprint arXiv:2108.06663.](https://arxiv.org/abs/2108.06663)
+## Implementation for HCR-Net:
+[[1] Chauhan, V. K., Singh, S., & Sharma, A. (2023) HCR-Net: A deep learning based script independent handwritten character recognition network. arXiv preprint arXiv:2108.06663.](https://arxiv.org/abs/2108.06663)
 
 
 
 ## ARCHITECTURE
-HCR-Lib is an implementation of HCR-Net, whose architecture is given below.
 
 <p align="center">
 <img align="middle" src="./figures/architecture.png" width="800" />
@@ -38,7 +28,7 @@ HCR-Lib is an implementation of HCR-Net, whose architecture is given below.
 
 
 
-This documentation provides information to the users and developers for using HCR-Lib.
+This documentation provides information to the users and developers for using HCR-Net.
 
 
 Table of Contents
@@ -82,9 +72,7 @@ HCR-Lib is an open source library, released under the MIT license, and provides 
 
 If you find this code useful, then please consider citing following work:
 ```
-Chauhan, V. K., Singh, S., & Sharma, A. (2022) HCR-Lib: A Deep Learning Library for Script Independent Handwritten Character Recognition.
-
-Chauhan, V. K., Singh, S., & Sharma, A. (2021) HCR-Net: A deep learning based script independent handwritten character recognition network. arXiv preprint arXiv:2108.06663.
+Chauhan, V. K., Singh, S., & Sharma, A. (2023) HCR-Net: A deep learning based script independent handwritten character recognition network. arXiv preprint arXiv:2108.06663.
 ```
 
 ## Contact us
