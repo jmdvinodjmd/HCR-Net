@@ -1,6 +1,6 @@
 
 ## Implementation for HCR-Net:
-[[1] Chauhan, V. K., Singh, S., & Sharma, A. (2023) HCR-Net: A deep learning based script independent handwritten character recognition network. arXiv preprint arXiv:2108.06663.](https://arxiv.org/abs/2108.06663)
+[1] Chauhan, V.K., Singh, S. & Sharma, A. HCR-Net: a deep learning based script independent handwritten character recognition network. Multimed Tools Appl (2024). [paper](https://doi.org/10.1007/s11042-024-18655-5), [preprint](https://arxiv.org/abs/2108.06663)
 
 
 
@@ -68,12 +68,7 @@ It is recommended to run this code for at least 5 times due to randomness associ
 
 
 ## More Information
-HCR-Lib is an open source library, released under the MIT license, and provides an implementation of HCR-Net deep learning model for handwriting character recognition.
-
-If you find this code useful, then please consider citing following work:
-```
-Chauhan, V. K., Singh, S., & Sharma, A. (2023) HCR-Net: A deep learning based script independent handwritten character recognition network. arXiv preprint arXiv:2108.06663.
-```
+If you find this code useful, then please consider citing our work.
 
 ## Contact us
 [Vinod Kumar Chauhan](https://sites.google.com/site/jmdvinodjmd/)
